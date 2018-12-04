@@ -7,3 +7,4 @@
     echo "Branch dev";
 	echo "Branch dev2";
 	echo "git checkout --file.";
+	echo "Stupid.";
